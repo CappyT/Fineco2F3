@@ -22,7 +22,7 @@ def main():
     session.post("https://finecobank.com/portalelogin", data=payload, headers=headers)
     print("Logged in")
     session.get("https://finecobank.com/home/myfineco", headers=headers)
-    print("Requested Homapage")
+    print("Requested Homepage")
     session.get("https://finecobank.com/conto-e-carte/movimenti/movimenti-conto", headers=headers)
     print("Request transaction page")
 
