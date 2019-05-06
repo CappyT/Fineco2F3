@@ -60,3 +60,7 @@ target/
 venv/
 
 \.idea/
+
+data\.csv
+
+latest-check
