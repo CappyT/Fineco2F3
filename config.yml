@@ -1,0 +1,7 @@
+account:
+  user: 'FINECOID'
+  pass: 'FINECOPASSWORD'
+options:
+  user-agent: 'Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0' # Standard Firefox on Linux UA
+  oldest_date: '1487203200' # 16/02/2017 the oldest date to begin checking for transactions.
+  data_format: 'YYYYMMDD' # Format of csv dates. Is suggested to leave this as default.
