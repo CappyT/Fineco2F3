@@ -1,0 +1,17 @@
+arrow==0.13.1
+beautifulsoup4==4.7.1
+bs4==0.0.1
+certifi==2019.3.9
+chardet==3.0.4
+get==2019.4.13
+idna==2.8
+post==2019.4.13
+public==2019.4.13
+python-dateutil==2.8.0
+PyYAML==5.1
+query-string==2019.4.13
+requests==2.21.0
+six==1.12.0
+soupsieve==1.9.1
+urllib3==1.24.3
+xlrd==1.2.0
